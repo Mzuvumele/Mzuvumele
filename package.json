@@ -1,0 +1,34 @@
+{
+  "name": "socialvibe",
+  "version": "1.0.0",
+  "description": "SocialVibe ia a cutting-edge social media platform designed to connect people, foster meaningful relationships, and facilitate seamless communication. With a user-cntric approach, our app offers a secure, intuitive, and engaging experience for users to share thoughts, ideas, and momentse from their lives.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mzuvumele/Mzuvumele.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "social",
+    "network",
+    "community",
+    "platform",
+    "user",
+    "engagement",
+    "online",
+    "connection",
+    "social",
+    "sharing",
+    "networking",
+    "friemd",
+    "family",
+    "community",
+    "building"
+  ],
+  "author": "Mzuvumele sibeko",
+  "license": "ISC"
+}
